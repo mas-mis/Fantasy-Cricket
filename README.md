@@ -1,2 +1,2 @@
-# Dream-11
-The project's goal is to develop a predictive model that can select the ideal team of 11 players for the popular fantasy cricket game Dream 11.
+# Fantasy Cricket 
+"Unleash Winning Strategies with AI: Our project merges sports enthusiasm with cutting-edge AI algorithms, helping you assemble the ultimate dream team. By inputting match details, our project uses machine learning to predict top 11 players, giving you the edge for victory. Elevate your fantasy sports experience now!"
